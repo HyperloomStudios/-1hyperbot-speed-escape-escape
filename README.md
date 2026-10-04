@@ -1,9 +1,13 @@
-# 🤖 +1 HyperspeedRobot Escape
+<div align="center">
+  <img src="assets/logo.png" width="160" height="160" alt="HyperLoom Studios Logo" style="border-radius: 24px;" />
+  <h1>+1 HyperspeedRobot Escape</h1>
+  <p><strong>Official Game & Website by HyperLoom Studios</strong></p>
+</div>
 
-> **Hello! This is the official Roblox game +1 HyperspeedRobot Escape by HyperLoom Studios:**
+> **Hello! This is the official Roblox game +1 HyperspeedRobot Escape by HyperLoom Studios:**  
 > 🎮 **Roblox Game:** [Play on Roblox](https://www.roblox.com/games/111685179102810/1-HyperspeedRobot-Escape)  
 > 👥 **Studio Group:** [HyperLoom Studios on Roblox](https://www.roblox.com/groups/896277589)  
-> 🌐 **Official Website:** [HyperLoom Escape Portal](https://krylo-60.github.io/hyperloom-escape/)  
+> 🌐 **Official Website:** [HyperLoom Escape Portal](https://hyperloomstudios.github.io/-1hyperbot-speed-escape-escape/)  
 > 
 > **Ready for review, thank you!**
 
@@ -18,7 +22,8 @@
 ### 🔗 Official Links
 - **Roblox Game**: [https://www.roblox.com/games/111685179102810/1-HyperspeedRobot-Escape](https://www.roblox.com/games/111685179102810/1-HyperspeedRobot-Escape)
 - **Roblox Group**: [https://www.roblox.com/groups/896277589](https://www.roblox.com/groups/896277589)
-- **Official Website**: [https://krylo-60.github.io/hyperloom-escape/](https://krylo-60.github.io/hyperloom-escape/)
+- **Official Website**: [https://hyperloomstudios.github.io/-1hyperbot-speed-escape-escape/](https://hyperloomstudios.github.io/-1hyperbot-speed-escape-escape/)
 - **IGDB Entry**: [https://www.igdb.com/games/plus-1-hyperspeedrobot-escape](https://www.igdb.com/games/plus-1-hyperspeedrobot-escape)
 - **GitHub Organization**: [https://github.com/HyperloomStudios](https://github.com/HyperloomStudios)
+
 
